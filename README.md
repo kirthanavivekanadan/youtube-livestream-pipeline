@@ -33,7 +33,7 @@ This pipeline follows an end-to-end data workflow for ingesting and loading YouT
 ---
 ## Architecture Diagram 
 
-
+![Architecture Diagram](architecture_diagram.jpg)
 
 ## How to Run
 
